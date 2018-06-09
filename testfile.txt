@@ -1,1 +1,2 @@
 This file is updated by gituser
+Second line updated by gituser
